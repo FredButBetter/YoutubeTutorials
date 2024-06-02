@@ -1,7 +1,7 @@
 extends Sprite3D
 class_name ShaderSprite3D
 
-var shaderScriptPath : String = "res://OutlineShader3D.gdshader"
+var shaderScriptPath : String = "res://OutlineShader3DWithBonuses.gdshader"
 @export var outlineColor := Color.AQUA
 @export var outlineLineWeight := 1.0
 
